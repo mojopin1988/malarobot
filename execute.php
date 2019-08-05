@@ -369,12 +369,35 @@ $responses['firenze'][] = 'il vero fiorentino è solo Novolese, da almeno 3 gene
 
 $responses['israele'] = array();
 $responses['israele'][] = 'Allora tenetevi gli Arabi di merda diahane!';
+$responses['israele'][] = 'Ma sei di Tel Aviv? Non sapevo...';
 
 $responses['ebrei'] = array();
 $responses['ebrei'][] = 'Allora tenetevi gli Arabi di merda diahane!';
+$responses['ebrei'][] = 'Ma sei di Tel Aviv? Non sapevo...';
+
+$responses['ebreo'] = array();
+$responses['ebreo'][] = 'Ma sei di Tel Aviv? Non sapevo...';
+$responses['ebreo'][] = 'Allora tenetevi gli Arabi di merda diahane!';
 
 $responses['palestina'] = array();
 $responses['palestina'][] = 'Tenetevi gli Arabi di merda diahane!';
+$responses['palestina'][] = 'Ma sei di Tel Aviv? Non sapevo...';
+
+$responses['sionista'] = array();
+$responses['sionista'][] = 'Ma sei di Tel Aviv? Non sapevo...';
+$responses['sionista'][] = 'Allora tenetevi gli Arabi di merda diahane!';
+
+$responses['giudaico'] = array();
+$responses['giudaico'][] = 'Ma sei di Tel Aviv? Non sapevo...';
+$responses['giudaico'][] = 'Allora tenetevi gli Arabi di merda diahane!';
+
+$responses['ebrei'] = array();
+$responses['ebrei'][] = 'Ma sei di Tel Aviv? Non sapevo...';
+$responses['ebrei'][] = 'Allora tenetevi gli Arabi di merda diahane!';
+
+$responses['israele'] = array();
+$responses['israele'][] = 'Ma sei di Tel Aviv? Non sapevo...';
+$responses['israele'][] = 'Allora tenetevi gli Arabi di merda diahane!';
 
 $responses['isis'] = array();
 $responses['isis'][] = 'Tenetevi gli Arabi di merda diahane!';
@@ -1156,6 +1179,21 @@ $responses['così'][] = 'a NEGRE';
 $responses['così'][] = 'LeL';
 $responses['così'][] = 'a merda';
 
+$responses['fede'] = array();
+$responses['fede'][] = 'Hai risolto col Pecchia? Non vorrei dover intervenire per mandarlo affanculo ancora prima di conoscerlo';
+
+$responses['pecchia'] = array();
+$responses['pecchia'][] = 'Hai risolto col Pecchia? Non vorrei dover intervenire per mandarlo affanculo ancora prima di conoscerlo';
+
+$responses['federico'] = array();
+$responses['federico'][] = 'Hai risolto col Pecchia? Non vorrei dover intervenire per mandarlo affanculo ancora prima di conoscerlo';
+
+$responses['fedepecchia'] = array();
+$responses['fedepecchia'][] = 'Hai risolto col Pecchia? Non vorrei dover intervenire per mandarlo affanculo ancora prima di conoscerlo';
+
+$responses['soldi'] = array();
+$responses['soldi'][] = 'Ma siete di Tel Aviv? non sapevo..';
+
 $responses['grazie'] = array();
 $responses['grazie'][] = 'Grazie una sega favalessa';
 
@@ -1199,6 +1237,15 @@ $responses['pensi'][] = 'Gli darei foho';
 $responses['pensi'][] = 'A Novoli sarebbe già morto';
 $responses['pensi'][] = 'Lo è il malato nella commedia di Molièr';
 $responses['pensi'][] = 'Ci si bacia sotto il muschio';
+
+$responses['spesa'] = array();
+$responses['spesa'][] = 'piuttosto vi offro il pranzo diomaiale';
+
+$responses['offre'] = array();
+$responses['offre'][] = 'piuttosto vi offro il pranzo diomaiale';
+
+$responses['offrire'] = array();
+$responses['offrire'][] = 'piuttosto vi offro il pranzo diomaiale';
 
 $responses['grande'] = array();
 $responses['grande'][] = 'E lo so ciccio';
